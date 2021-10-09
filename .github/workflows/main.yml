@@ -32,7 +32,7 @@ jobs:
           hugo-version: '0.59.1'
 
       - name: Build
-        run: hugo --minify
+        run: cd exampleSite && hugo --gc --themesDir ../..
       
       # Runs a set of commands using the runners shell
       - name: Deploy
@@ -41,7 +41,7 @@ jobs:
            ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
            EXTERNAL_REPOSITORY: username/external-repository
            PUBLISH_BRANCH: master
-           PUBLISH_DIR: ./public
+           PUBLISH_DIR: exampleSite/public
         with:
            emptyCommits: false
            commitMessage: ${{ github.event.head_commit.message }}
