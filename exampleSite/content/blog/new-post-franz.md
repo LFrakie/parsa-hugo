@@ -5,7 +5,7 @@ description = "Description dasd as"
 image = "/images/450_1000-jpg-450x264-google-chrome.jpg"
 tags = ["tag-asd"]
 title = "New Post - Franz"
-type = "type-asd"
+type = "featured"
 
 +++
 Blog Content
