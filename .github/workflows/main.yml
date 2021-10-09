@@ -27,8 +27,8 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: LFrakie/parsa-hugo@v2
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          github_token: ${{ ACTIONS_DEPLOY_KEY }}
+          github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./exampleSite/public
