@@ -12,13 +12,13 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@master
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
-        uses: LFrakie/parsa-hugo@v2
+        uses: LFrakie/parsa-hugo@master
         with:
           hugo-version: '0.85.0'
 
@@ -27,7 +27,7 @@ jobs:
 
       - name: Deploy
         uses: LFrakie/parsa-hugo@master
-        if: ${{ github.ref == 'refs/heads/main' }}
+        if: ${{ github.ref == 'refs/heads/master' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
