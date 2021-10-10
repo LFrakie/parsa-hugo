@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - name: 'Building...'
-      uses: LFrakie/parsa-hugo@v1
+      uses: LFrakie/parsa-hugo@master
       env:
         DEPLOY_REPO: LFrakie/LFrakie.github.io
         DEPLOY_BRANCH: build
