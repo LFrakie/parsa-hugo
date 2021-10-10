@@ -1,4 +1,4 @@
-name: hugo-latest-cd
+name: hugo-deploy
 
 on:
   push:
@@ -16,8 +16,8 @@ jobs:
 
     steps:
       - name: 🛎 Check out master
-        uses: actions/checkout@master
+        uses: actions/checkout@latest
         with:
           fetch-depth: 1
       - name: 🚀 Build and deploy
-        uses: LFrakie/parsa-hugo@master
+        uses: LFrakie/parsa-hugo@latest
