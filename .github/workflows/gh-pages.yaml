@@ -26,8 +26,8 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: LFrakie/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/master' }}
+        uses: LFrakie/parsa-hugo@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
