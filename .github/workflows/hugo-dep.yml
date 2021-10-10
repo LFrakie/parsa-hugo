@@ -20,4 +20,4 @@ jobs:
         with:
           fetch-depth: 1
       - name: 🚀 Build and deploy
-        uses: victoriadrake/hugo-latest-cd@master
+        uses: LFrakie/parsa-hugo@master
