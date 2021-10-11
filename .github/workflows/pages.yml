@@ -19,7 +19,7 @@ jobs:
         hugo-version: '0.59.1'
 
     - name: Build
-      run: hugo --minify
+      run: cd exampleSite && hugo --gc --themesDir ../..
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
