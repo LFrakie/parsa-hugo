@@ -23,7 +23,7 @@ jobs:
           hugo-version: '0.85.0'
 
       - name: Build
-        run: hugo --minify
+        run: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk -d public
 
       - name: Deploy
         uses: LFrakie/parsa-hugo@v3
