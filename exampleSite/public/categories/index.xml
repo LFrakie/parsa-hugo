@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Parsa Hugo | CMS</title>
+    <link>https://parsa-hugo-cmd.netlify.app/categories/</link>
+    <description>Recent content in Categories on Parsa Hugo | CMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Oct 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://parsa-hugo-cmd.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nose-categori</title>
+      <link>https://parsa-hugo-cmd.netlify.app/categories/nose-categori/</link>
+      <pubDate>Sat, 09 Oct 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://parsa-hugo-cmd.netlify.app/categories/nose-categori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>https://parsa-hugo-cmd.netlify.app/categories/nature/</link>
+      <pubDate>Fri, 08 Oct 2021 21:00:00 +0000</pubDate>
+      
+      <guid>https://parsa-hugo-cmd.netlify.app/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://parsa-hugo-cmd.netlify.app/categories/article/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://parsa-hugo-cmd.netlify.app/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion</title>
+      <link>https://parsa-hugo-cmd.netlify.app/categories/fashion/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://parsa-hugo-cmd.netlify.app/categories/fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://parsa-hugo-cmd.netlify.app/categories/food/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://parsa-hugo-cmd.netlify.app/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>https://parsa-hugo-cmd.netlify.app/categories/philosophy/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://parsa-hugo-cmd.netlify.app/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valuable Idea</title>
+      <link>https://parsa-hugo-cmd.netlify.app/categories/valuable-idea/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://parsa-hugo-cmd.netlify.app/categories/valuable-idea/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
