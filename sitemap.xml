@@ -63,12 +63,12 @@
   </url>
   
   <url>
-    <loc>https://parsa-hugo-cmd.netlify.app/tags/article/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/article/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://parsa-hugo-cmd.netlify.app/categories/article/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/article/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
@@ -188,12 +188,12 @@
   </url>
   
   <url>
-    <loc>https://parsa-hugo-cmd.netlify.app/tags/philosophy/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/philosophy/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://parsa-hugo-cmd.netlify.app/categories/philosophy/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/philosophy/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
