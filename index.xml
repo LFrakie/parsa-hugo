@@ -2,237 +2,237 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pharsa Hugo LF | CMS</title>
-    <link>https://lfrakie.github.io/parsa-hugo/</link>
+    <link>/</link>
     <description>Recent content on Pharsa Hugo LF | CMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Apr 2022 02:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lfrakie.github.io/parsa-hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Holo</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/holo/</link>
+      <link>/blog/holo/</link>
       <pubDate>Tue, 19 Apr 2022 02:00:00 +0000</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/holo/</guid>
+      <guid>/blog/holo/</guid>
       <description>Hola estoy en un nuevo blog :B Ahora quiero expresar mi primer comentario</description>
     </item>
     
     <item>
       <title>New Post - Franz</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/new-post-franz/</link>
+      <link>/blog/new-post-franz/</link>
       <pubDate>Sat, 09 Oct 2021 09:00:00 +0000</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/new-post-franz/</guid>
+      <guid>/blog/new-post-franz/</guid>
       <description>Blog Content</description>
     </item>
     
     <item>
       <title>LF test Forestry</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/lf-test-forestry/</link>
+      <link>/blog/lf-test-forestry/</link>
       <pubDate>Fri, 08 Oct 2021 21:00:00 +0000</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/lf-test-forestry/</guid>
+      <guid>/blog/lf-test-forestry/</guid>
       <description>Titulo 1 Este es el body del nuestro post :D</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://lfrakie.github.io/parsa-hugo/about/</link>
+      <link>/about/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/about/</guid>
+      <guid>/about/</guid>
       <description>Hello, I’m Frank Wilson TEST Soy muy buen diseñador aunque aun me falta para ser un buen programador :c</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.1/</link>
+      <link>/blog/charming-evening-field.1/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.1/</guid>
+      <guid>/blog/charming-evening-field.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.10/</link>
+      <link>/blog/charming-evening-field.10/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.10/</guid>
+      <guid>/blog/charming-evening-field.10/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.11/</link>
+      <link>/blog/charming-evening-field.11/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.11/</guid>
+      <guid>/blog/charming-evening-field.11/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.2/</link>
+      <link>/blog/charming-evening-field.2/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.2/</guid>
+      <guid>/blog/charming-evening-field.2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.3/</link>
+      <link>/blog/charming-evening-field.3/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.3/</guid>
+      <guid>/blog/charming-evening-field.3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.4/</link>
+      <link>/blog/charming-evening-field.4/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.4/</guid>
+      <guid>/blog/charming-evening-field.4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.5/</link>
+      <link>/blog/charming-evening-field.5/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.5/</guid>
+      <guid>/blog/charming-evening-field.5/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.6/</link>
+      <link>/blog/charming-evening-field.6/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.6/</guid>
+      <guid>/blog/charming-evening-field.6/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.7/</link>
+      <link>/blog/charming-evening-field.7/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.7/</guid>
+      <guid>/blog/charming-evening-field.7/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.8/</link>
+      <link>/blog/charming-evening-field.8/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.8/</guid>
+      <guid>/blog/charming-evening-field.8/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.9/</link>
+      <link>/blog/charming-evening-field.9/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field.9/</guid>
+      <guid>/blog/charming-evening-field.9/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field/</link>
+      <link>/blog/charming-evening-field/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/charming-evening-field/</guid>
+      <guid>/blog/charming-evening-field/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/organize-your-life.1/</link>
+      <link>/blog/organize-your-life.1/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/organize-your-life.1/</guid>
+      <guid>/blog/organize-your-life.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/organize-your-life.2/</link>
+      <link>/blog/organize-your-life.2/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/organize-your-life.2/</guid>
+      <guid>/blog/organize-your-life.2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/organize-your-life.3/</link>
+      <link>/blog/organize-your-life.3/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/organize-your-life.3/</guid>
+      <guid>/blog/organize-your-life.3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/organize-your-life.4/</link>
+      <link>/blog/organize-your-life.4/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/organize-your-life.4/</guid>
+      <guid>/blog/organize-your-life.4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/organize-your-life/</link>
+      <link>/blog/organize-your-life/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/organize-your-life/</guid>
+      <guid>/blog/organize-your-life/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Contacts - LF</title>
-      <link>https://lfrakie.github.io/parsa-hugo/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/contact/</guid>
+      <guid>/contact/</guid>
       <description>FFF Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.</description>
     </item>
     
     <item>
       <title>Homepage 1</title>
-      <link>https://lfrakie.github.io/parsa-hugo/homepage/home-1/</link>
+      <link>/homepage/home-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/homepage/home-1/</guid>
+      <guid>/homepage/home-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homepage 2</title>
-      <link>https://lfrakie.github.io/parsa-hugo/homepage/home-2/</link>
+      <link>/homepage/home-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/homepage/home-2/</guid>
+      <guid>/homepage/home-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search Result</title>
-      <link>https://lfrakie.github.io/parsa-hugo/search/</link>
+      <link>/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/search/</guid>
+      <guid>/search/</guid>
       <description></description>
     </item>
     

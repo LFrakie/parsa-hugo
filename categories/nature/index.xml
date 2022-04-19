@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nature on Pharsa Hugo LF | CMS</title>
-    <link>https://lfrakie.github.io/parsa-hugo/categories/nature/</link>
+    <link>/categories/nature/</link>
     <description>Recent content in Nature on Pharsa Hugo LF | CMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Oct 2021 21:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lfrakie.github.io/parsa-hugo/categories/nature/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LF test Forestry</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/lf-test-forestry/</link>
+      <link>/blog/lf-test-forestry/</link>
       <pubDate>Fri, 08 Oct 2021 21:00:00 +0000</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/lf-test-forestry/</guid>
+      <guid>/blog/lf-test-forestry/</guid>
       <description>Titulo 1 Este es el body del nuestro post :D</description>
     </item>
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://lfrakie.github.io/parsa-hugo/blog/organize-your-life.4/</link>
+      <link>/blog/organize-your-life.4/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/blog/organize-your-life.4/</guid>
+      <guid>/blog/organize-your-life.4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
