@@ -1,10 +1,10 @@
-baseurl = "https://parsa-hugo-cmd.netlify.app"
+baseurl = "/parsa-hugo/"
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = "6"
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Parsa Hugo | CMS"
+title = "Pharsa Hugo LF | CMS"
 [[menu.main]]
 hasChildren = true
 name = "Homepage"
