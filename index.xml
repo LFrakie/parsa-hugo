@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>New Post - ff</title>
+      <link>https://parsa-hugo-cmd.netlify.app/blog/new-ff/</link>
+      <pubDate>Sat, 09 Oct 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://parsa-hugo-cmd.netlify.app/blog/new-ff/</guid>
+      <description>Blog Content</description>
+    </item>
+    
+    <item>
       <title>New Post - Franz</title>
       <link>https://parsa-hugo-cmd.netlify.app/blog/new-post-franz/</link>
       <pubDate>Sat, 09 Oct 2021 09:00:00 +0000</pubDate>
