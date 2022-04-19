@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pharsa Hugo LF | CMS</title>
-    <link>/parsa-hugo/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Pharsa Hugo LF | CMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Oct 2021 09:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/parsa-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>nose-categori</title>
-      <link>/parsa-hugo/categories/nose-categori/</link>
+      <link>/categories/nose-categori/</link>
       <pubDate>Sat, 09 Oct 2021 09:00:00 +0000</pubDate>
       
-      <guid>/parsa-hugo/categories/nose-categori/</guid>
+      <guid>/categories/nose-categori/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>/parsa-hugo/categories/nature/</link>
+      <link>/categories/nature/</link>
       <pubDate>Fri, 08 Oct 2021 21:00:00 +0000</pubDate>
       
-      <guid>/parsa-hugo/categories/nature/</guid>
+      <guid>/categories/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Article</title>
-      <link>/parsa-hugo/categories/article/</link>
+      <link>/categories/article/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>/parsa-hugo/categories/article/</guid>
+      <guid>/categories/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fashion</title>
-      <link>/parsa-hugo/categories/fashion/</link>
+      <link>/categories/fashion/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>/parsa-hugo/categories/fashion/</guid>
+      <guid>/categories/fashion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>/parsa-hugo/categories/food/</link>
+      <link>/categories/food/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>/parsa-hugo/categories/food/</guid>
+      <guid>/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>/parsa-hugo/categories/philosophy/</link>
+      <link>/categories/philosophy/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>/parsa-hugo/categories/philosophy/</guid>
+      <guid>/categories/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Valuable Idea</title>
-      <link>/parsa-hugo/categories/valuable-idea/</link>
+      <link>/categories/valuable-idea/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>/parsa-hugo/categories/valuable-idea/</guid>
+      <guid>/categories/valuable-idea/</guid>
       <description></description>
     </item>
     
