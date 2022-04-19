@@ -1,4 +1,4 @@
-baseurl = "https://parsa-hugo-cmd.netlify.app"
+baseurl = "https://lfrakie.github.io/parsa-hugo"
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = "6"
