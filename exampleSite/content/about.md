@@ -7,6 +7,7 @@ image: "images/author.jpg"
 
 ### Hello, I’m **Frank Wilson**
 
+Soy muy buen diseñador aunque aun me falta para ser un buen programador :c
 Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
 generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour
 around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a
