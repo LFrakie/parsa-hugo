@@ -1,4 +1,4 @@
-baseurl = "https://lfrakie.github.io/parsa-hugo"
+baseurl = "/"
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = "6"
