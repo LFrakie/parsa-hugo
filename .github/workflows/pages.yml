@@ -19,7 +19,7 @@ jobs:
         hugo-version: '0.59.1'
 
     - name: Build
-      run: cd exampleSite && hugo --gc --themesDir ../..
+      run: cd exampleSite && hugo --gc --themesDir ../.. --bind=0.0.0.0 --baseURL=https://lfrakie.github.io/parsa-hugo/
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
