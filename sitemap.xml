@@ -3,228 +3,223 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/parsa-hugo/blog/</loc>
-    <lastmod>2022-04-19T02:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/parsa-hugo/blog/holo/</loc>
-    <lastmod>2022-04-19T02:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/parsa-hugo/</loc>
-    <lastmod>2022-04-19T02:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/parsa-hugo/categories/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/</loc>
     <lastmod>2021-10-09T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/new-post-franz/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/</loc>
     <lastmod>2021-10-09T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/categories/nose-categori/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/new-post-franz/</loc>
     <lastmod>2021-10-09T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/tags/tag-asd/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/nose-categori/</loc>
     <lastmod>2021-10-09T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/tags/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/</loc>
     <lastmod>2021-10-09T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/lf-test-forestry/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/tag-asd/</loc>
+    <lastmod>2021-10-09T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/</loc>
+    <lastmod>2021-10-09T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/lf-test-forestry/</loc>
     <lastmod>2021-10-08T21:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/categories/nature/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/nature/</loc>
     <lastmod>2021-10-08T21:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/tags/nse-tag/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/nse-tag/</loc>
     <lastmod>2021-10-08T21:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/about/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/about/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/categories/article/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/article/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/tags/article/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/article/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/charming-evening-field.1/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/charming-evening-field.1/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/charming-evening-field.10/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/charming-evening-field.10/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/charming-evening-field.11/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/charming-evening-field.11/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/charming-evening-field.2/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/charming-evening-field.2/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/charming-evening-field.3/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/charming-evening-field.3/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/charming-evening-field.4/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/charming-evening-field.4/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/charming-evening-field.5/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/charming-evening-field.5/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/charming-evening-field.6/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/charming-evening-field.6/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/charming-evening-field.7/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/charming-evening-field.7/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/charming-evening-field.8/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/charming-evening-field.8/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/charming-evening-field.9/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/charming-evening-field.9/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/charming-evening-field/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/charming-evening-field/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/tags/fashion/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/fashion/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/categories/fashion/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/fashion/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/tags/finance/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/finance/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/tags/food/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/food/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/categories/food/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/food/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/tags/nature/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/nature/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/organize-your-life.1/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/organize-your-life.1/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/organize-your-life.2/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/organize-your-life.2/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/organize-your-life.3/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/organize-your-life.3/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/organize-your-life.4/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/organize-your-life.4/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/blog/organize-your-life/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/blog/organize-your-life/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/categories/philosophy/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/philosophy/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/tags/philosophy/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/philosophy/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/tags/photos/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/photos/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/categories/valuable-idea/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/valuable-idea/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/parsa-hugo/contact/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/contact/</loc>
   </url>
   
   <url>
-    <loc>/parsa-hugo/homepage/home-1/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/homepage/home-1/</loc>
   </url>
   
   <url>
-    <loc>/parsa-hugo/homepage/home-2/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/homepage/home-2/</loc>
   </url>
   
   <url>
-    <loc>/parsa-hugo/homepage/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/homepage/</loc>
   </url>
   
   <url>
-    <loc>/parsa-hugo/search/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/search/</loc>
   </url>
   
 </urlset>
