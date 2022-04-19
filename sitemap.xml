@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://parsa-hugo-cmd.netlify.app/blog/new-ff/</loc>
-    <lastmod>2021-10-09T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://parsa-hugo-cmd.netlify.app/blog/new-post-franz/</loc>
     <lastmod>2021-10-09T09:00:00+00:00</lastmod>
   </url>
@@ -138,12 +133,12 @@
   </url>
   
   <url>
-    <loc>https://parsa-hugo-cmd.netlify.app/categories/fashion/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/fashion/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://parsa-hugo-cmd.netlify.app/tags/fashion/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/fashion/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
@@ -153,12 +148,12 @@
   </url>
   
   <url>
-    <loc>https://parsa-hugo-cmd.netlify.app/categories/food/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/food/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://parsa-hugo-cmd.netlify.app/tags/food/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/food/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
@@ -193,12 +188,12 @@
   </url>
   
   <url>
-    <loc>https://parsa-hugo-cmd.netlify.app/tags/philosophy/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/categories/philosophy/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://parsa-hugo-cmd.netlify.app/categories/philosophy/</loc>
+    <loc>https://parsa-hugo-cmd.netlify.app/tags/philosophy/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
