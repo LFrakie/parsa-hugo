@@ -1,4 +1,4 @@
-baseurl = "/parsa-hugo"
+baseurl = "/"
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = "6"
@@ -8,7 +8,7 @@ title = "Pharsa Hugo LF | CMS"
 [[menu.main]]
 hasChildren = true
 name = "Homepage"
-url = "https://lfrakie.github.io"
+url = "https://lfrakie.github.io/parsa-hugo"
 weight = 1
 [[menu.main]]
 name = "Homepage 1"
