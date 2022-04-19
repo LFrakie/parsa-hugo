@@ -26,7 +26,7 @@ jobs:
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         EXTERNAL_REPOSITORY: LFrakie/parsa-hugo
-        PUBLISH_BRANCH: master
+        PUBLISH_BRANCH: pub
         PUBLISH_DIR: ./public
       with:
         emptyCommits: false
