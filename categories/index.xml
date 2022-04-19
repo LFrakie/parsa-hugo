@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pharsa Hugo LF | CMS</title>
-    <link>https://lfrakie.github.io/parsa-hugo/categories/</link>
+    <link>/parsa-hugo/categories/</link>
     <description>Recent content in Categories on Pharsa Hugo LF | CMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Oct 2021 09:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lfrakie.github.io/parsa-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/parsa-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>nose-categori</title>
-      <link>https://lfrakie.github.io/parsa-hugo/categories/nose-categori/</link>
+      <link>/parsa-hugo/categories/nose-categori/</link>
       <pubDate>Sat, 09 Oct 2021 09:00:00 +0000</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/categories/nose-categori/</guid>
+      <guid>/parsa-hugo/categories/nose-categori/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>https://lfrakie.github.io/parsa-hugo/categories/nature/</link>
+      <link>/parsa-hugo/categories/nature/</link>
       <pubDate>Fri, 08 Oct 2021 21:00:00 +0000</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/categories/nature/</guid>
+      <guid>/parsa-hugo/categories/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Article</title>
-      <link>https://lfrakie.github.io/parsa-hugo/categories/article/</link>
+      <link>/parsa-hugo/categories/article/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/categories/article/</guid>
+      <guid>/parsa-hugo/categories/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fashion</title>
-      <link>https://lfrakie.github.io/parsa-hugo/categories/fashion/</link>
+      <link>/parsa-hugo/categories/fashion/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/categories/fashion/</guid>
+      <guid>/parsa-hugo/categories/fashion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://lfrakie.github.io/parsa-hugo/categories/food/</link>
+      <link>/parsa-hugo/categories/food/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/categories/food/</guid>
+      <guid>/parsa-hugo/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>https://lfrakie.github.io/parsa-hugo/categories/philosophy/</link>
+      <link>/parsa-hugo/categories/philosophy/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/categories/philosophy/</guid>
+      <guid>/parsa-hugo/categories/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Valuable Idea</title>
-      <link>https://lfrakie.github.io/parsa-hugo/categories/valuable-idea/</link>
+      <link>/parsa-hugo/categories/valuable-idea/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://lfrakie.github.io/parsa-hugo/categories/valuable-idea/</guid>
+      <guid>/parsa-hugo/categories/valuable-idea/</guid>
       <description></description>
     </item>
     
